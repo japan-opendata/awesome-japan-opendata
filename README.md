@@ -552,3 +552,7 @@
 - [インフォ・ラウンジ株式会社](https://info-lounge.jp/)
 - [jig.jp](jig.jp) / [B Inc.](https://www.b-incorp.com/) - [オープンデータプラットフォーム](https://odp.jig.jp/)を運営
 - [Linked Open Data Initiative (特定非営利活動法人リンクト・オープン・データ・イニシアティブ)](https://linkedopendata.jp/)
+
+---
+
+_Contributors_: [@ozekik](https://github.com/ozekik/)
