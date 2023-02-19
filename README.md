@@ -86,6 +86,7 @@
 - [メディア芸術データベース](https://mediaarts-db.bunka.go.jp/) (文化庁)
   - [MADB Lab](https://mediag.bunka.go.jp/madb_lab/)
 - [オープンデータセット｜国立国会図書館-National Diet Library](https://www.ndl.go.jp/jp/dlib/standards/opendataset/index.html)
+- [ROIS-DS人文学オープンデータ共同利用センター (CODH)](http://codh.rois.ac.jp/)
 
 #### 環境・国土・地理
 
@@ -94,10 +95,25 @@
 - [PLATEAU (プラトー)](https://www.mlit.go.jp/plateau/) - 国土交通省が主導する、日本全国の3D都市モデルの整備・オープンデータ化プロジェクト
 - [G空間情報センター](https://front.geospatial.jp/) (AIGID)
 - [環境省大気汚染物質広域監視システム（そらまめくん）API](https://soramame.env.go.jp/apiManual)
+- [地価公示・地価調査・取引価格情報](https://www.land.mlit.go.jp/webland/) (国土交通省 土地総合情報システム)
 
 #### 交通
 
 - [公共交通オープンデータセンター](https://www.odpt.org/overview/) (公共交通オープンデータ協議会)
+
+#### 観光・貿易・国際交流
+
+- [日本の観光統計データ](https://statistics.jnto.go.jp/) (日本政府観光局 (JNTO))
+- [国際会議統計](https://mice.jnto.go.jp/document/statistics.html) (日本政府観光局 (JNTO)・非オープンデータ)
+- [訪日外客数・出国日本人数データ](https://www.jnto.go.jp/jpn/statistics/visitor_trends/index.html)  (日本政府観光局 (JNTO)・ライセンス不明)
+
+#### 医療・健康・福祉
+
+- [サービス付き高齢者向け住宅情報提供システム 全国登録情報データ](https://www.satsuki-jutaku.jp/registration_data.html) - (ライセンス不明)
+
+#### 法人
+
+- [国税庁法人番号公表サイト ダウンロード/Web API](https://www.houjin-bangou.nta.go.jp/download/) - 法人の基本3情報 (商号又は名称/本店又は主たる事務所の所在地/法人番号) のデータセット
 
 ### 地方自治体
 
@@ -457,6 +473,7 @@
 - [政策データダッシュボード（ベータ版）](https://www.digital.go.jp/resources/govdashboard/) (デジタル庁)
 - [RESAS 地域経済分析システム](https://resas.go.jp/#/13/13101) (内閣府・経済産業省)
 - [My City Forecast あなたのまちの未来予報](https://mycityforecast.net/) (東京大学生産技術研究所 空間情報科学研究センター 関本研究室)
+- [新型コロナウイルス感染症 (COVID-19) 各種データ ダッシュボード](https://corona.go.jp/dashboard/) (内閣官房新型コロナウイルス等感染症対策推進室)
 
 ## オープンデータの整備・政策
 
