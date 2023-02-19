@@ -1,6 +1,6 @@
 # Awesome Japan Open Data
 
-日本のオープンデータに関する情報まとめ
+> 日本のオープンデータに関する情報まとめ
 
 - 一般・自治体・官公庁の方からの情報の追加・修正、リンク切れの報告等を歓迎しています。[Issues](https://github.com/japan-opendata/awesome-japan-opendata/issues) または [Pull Requests](https://github.com/japan-opendata/awesome-japan-opendata/pulls) からお送りください。
 
@@ -534,6 +534,7 @@
 - [データサイエンス・スクール データサイエンス・オンライン講座](https://www.stat.go.jp/dss/online03.html) (総務省統計局)
 - [オープンデータ取組ガイド](https://www.j-lis.go.jp/rdd/opendata/h26_opendataguide.html) (地方公共団体情報システム機構 (J-LIS))
 - [ICT地域活性化ポータル](https://www.soumu.go.jp/main_sosiki/joho_tsusin/top/local_support/ict/index.html) (総務省)
+- [オープンデータ・ハンドブック (Open Data Handbook)](https://opendatahandbook.org/guide/ja/) (Open Knowledge Foundation)
 
 ## コンテスト・イベント
 
