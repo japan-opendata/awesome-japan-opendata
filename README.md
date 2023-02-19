@@ -97,7 +97,7 @@
 
 #### 交通
 
-- [公共交通オープンデータセンター | 公共交通オープンデータ協議会](https://www.odpt.org/overview/)
+- [公共交通オープンデータセンター](https://www.odpt.org/overview/) (公共交通オープンデータ協議会)
 
 ### 地方自治体
 
@@ -214,7 +214,7 @@
 
 ##### 鯖江市
 
-- [データシティ鯖江ポータルサイト | Data City Sabae](https://data.city.sabae.lg.jp/)
+- [データシティ鯖江ポータルサイト (Data City Sabae)](https://data.city.sabae.lg.jp/)
 
 ##### 福井市
 
@@ -465,7 +465,7 @@
 
 ### 終了・休止中
 
-- [オープンデータ | 政府CIOポータル](https://cio.go.jp/policy-opendata) - デジタル庁に移管
+- [オープンデータ \| 政府CIOポータル](https://cio.go.jp/policy-opendata) - デジタル庁に移管
 
 ## コンテスト・イベント
 
@@ -483,4 +483,4 @@
 
 - [インフォ・ラウンジ株式会社](https://info-lounge.jp/)
 - [jig.jp](jig.jp) / [B Inc.](https://www.b-incorp.com/) - [オープンデータプラットフォーム](https://odp.jig.jp/)を運営
-- [Linked Open Data Initiative | 特定非営利活動法人リンクト・オープン・データ・イニシアティブ](https://linkedopendata.jp/)
+- [Linked Open Data Initiative (特定非営利活動法人リンクト・オープン・データ・イニシアティブ)](https://linkedopendata.jp/)
