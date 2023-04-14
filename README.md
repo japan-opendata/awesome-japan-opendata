@@ -172,6 +172,7 @@
 
 - [青い森オープンデータカタログ Aoi Mori Open Data Catalog](https://opendata.pref.aomori.lg.jp/)
 - [犯罪オープンデータ](https://www.police.pref.aomori.jp/seianbu/seian_kikaku/hanyoku/hanyoku_opendate.html) (青森県警察)
+- [青森県史デジタルアーカイブスシステム](https://kenshi-archives.pref.aomori.lg.jp/contents/kenshi-front/)
 
 #### 岩手県
 
