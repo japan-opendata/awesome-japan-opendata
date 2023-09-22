@@ -1,8 +1,12 @@
-# Awesome Japan Open Data
+# 日本のオープンデータ情報まとめ
 
-> 日本のオープンデータに関する情報まとめ
+> Awesome Japan Open Data
 
 - 一般・自治体・官公庁の方からの情報の追加・修正、リンク切れの報告等を歓迎しています。[Issues](https://github.com/japan-opendata/awesome-japan-opendata/issues) または [Pull Requests](https://github.com/japan-opendata/awesome-japan-opendata/pulls) からお送りください。
+
+### GitHub
+
+<https://github.com/japan-opendata/awesome-japan-opendata>
 
 ### 目次
 
