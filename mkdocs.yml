@@ -1,0 +1,38 @@
+site_name: 日本のオープンデータ情報一覧・まとめ
+site_description: Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ
+repo_name: japan-opendata/awesome-japan-opendata
+repo_url: https://github.com/japan-opendata/awesome-japan-opendata
+edit_uri: edit/master/
+
+theme:
+  name: material
+  language: ja
+  font:
+    text: "Noto Sans JP"
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: white
+  features:
+    - toc.follow
+    # - toc.integrate
+    - navigation.top
+    # - navigation.expand
+    - content.action.edit
+    # - content.action.view
+  icon:
+    logo: material/library-shelves
+    repo: fontawesome/brands/github
+    # favicon: "favicon.png"
+
+# extra_css:
+#   - "extra/main.css"
+
+plugins:
+  - include-markdown
+  - search
+
+markdown_extensions:
+  - toc:
+      slugify: !!python/name:pymdownx.slugs.uslugify
