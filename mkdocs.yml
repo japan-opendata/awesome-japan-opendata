@@ -35,4 +35,6 @@ plugins:
 
 markdown_extensions:
   - toc:
-      slugify: !!python/name:pymdownx.slugs.uslugify
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: none
