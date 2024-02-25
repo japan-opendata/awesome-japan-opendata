@@ -82,6 +82,7 @@
 - [コンテスト・イベント](#コンテストイベント)
 - [市民団体・活動](#市民団体活動)
 - [企業・法人](#企業法人)
+- [関連リンク](#関連リンク)
 
 ## オープンデータカタログ/データセット
 
@@ -561,7 +562,7 @@
 
 ## 関連リンク
 
-- [Awesome PLATEAU - 国土交通省 Project PLATEAU リンク集](https://japan-opendata.github.io/awesome-plateau/) - 国土交通省 Project PLATEAU の関連情報や事例のまとめ
+- [Awesome PLATEAU - 国土交通省 Project PLATEAU 情報まとめ](https://japan-opendata.github.io/awesome-plateau/) - 国土交通省 Project PLATEAU の関連情報や事例のまとめ
 
 ---
 
