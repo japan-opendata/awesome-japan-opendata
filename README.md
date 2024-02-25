@@ -559,6 +559,10 @@
 - [jig.jp](https://jig.jp) / [B Inc.](https://www.b-incorp.com/) - [オープンデータプラットフォーム](https://odp.jig.jp/)を運営
 - [Linked Open Data Initiative (特定非営利活動法人リンクト・オープン・データ・イニシアティブ)](https://linkedopendata.jp/)
 
+## 関連リンク
+
+- [Awesome PLATEAU - 国土交通省 Project PLATEAU リンク集](https://japan-opendata.github.io/awesome-plateau/) - 国土交通省 Project PLATEAU の関連情報や事例のまとめ
+
 ---
 
 _Contributors_: [@ozekik](https://github.com/ozekik/)
