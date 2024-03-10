@@ -96,7 +96,7 @@
 
 - [ジャパンサーチ](https://jpsearch.go.jp/)
 - [メディア芸術データベース](https://mediaarts-db.bunka.go.jp/) (文化庁)
-  - [MADB Lab](https://mediag.bunka.go.jp/madb_lab/)
+    - [MADB Lab](https://mediag.bunka.go.jp/madb_lab/)
 - [オープンデータセット｜国立国会図書館-National Diet Library](https://www.ndl.go.jp/jp/dlib/standards/opendataset/index.html)
 - [ROIS-DS人文学オープンデータ共同利用センター (CODH)](http://codh.rois.ac.jp/)
 - [子供の学び応援サイト掲載コンテンツ情報](https://www.mext.go.jp/a_menu/ikusei/gakusyushien/mext_00975.html) (文部科学省) - [子供の学び応援サイト](https://www.mext.go.jp/a_menu/ikusei/gakusyushien/index_00001.htm)に掲載している一部の学習コンテンツのメタデータ
@@ -111,7 +111,7 @@
 - [地価公示・地価調査・取引価格情報](https://www.land.mlit.go.jp/webland/) (国土交通省 土地総合情報システム)
 - [荒川下流ＧＩＳオープンデータポータル](https://www.ktr.mlit.go.jp/arage/arage01171.html) (荒川下流河川事務所)
 - [CARATS Open Data](https://www.mlit.go.jp/koku/koku_fr13_000006.html) (国土交通省・要申請) - 定期航空便の時刻・位置等の航跡データ
-  - [CARATS Open Data 関連情報](https://www.enri.go.jp/research/carats_open_data/index.html) (電子航法研究所)
+    - [CARATS Open Data 関連情報](https://www.enri.go.jp/research/carats_open_data/index.html) (電子航法研究所)
 
 #### 交通・移動・物流
 
@@ -140,7 +140,7 @@
 - [障害福祉サービス等情報公表システムデータのオープンデータ](https://www.wam.go.jp/content/wamnet/pcpub/top/sfkopendata/) (厚生労働省社会・援護局)
 - [NDBオープンデータ](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000177182.html) (厚生労働省)
 - [介護サービス情報公表システム](https://www.kaigokensaku.mhlw.go.jp/) (厚生労働省)
-  - [通いの場のオープンデータ](https://www.mhlw.go.jp/stf/kayoinoba_opendata_00002.html) (厚生労働省)
+    - [通いの場のオープンデータ](https://www.mhlw.go.jp/stf/kayoinoba_opendata_00002.html) (厚生労働省)
 - [介護DBオープンデータ](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/nintei/index_00009.html) (厚生労働省) - 2018〜2019年度のみ
 - [歯科保健医療に関するオープンデータ](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000158505_00001.html) (厚生労働省)
 
@@ -182,12 +182,12 @@
 #### 岩手県
 
 - [岩手県オープンデータサイト](https://www.pref.iwate.jp/opendata/1000081/index.html)
-  - [オープンデータ検索](https://www.pref.iwate.jp/cgi-opd/opendata.cgi)
+    - [オープンデータ検索](https://www.pref.iwate.jp/cgi-opd/opendata.cgi)
 
 #### 宮城県
 
 - [宮城県及び市町村共同オープンデータポータルサイト](https://miyagi.dataeye.jp/)
-  - [オープンデータみやぎ - 宮城県公式ウェブサイト](https://www.pref.miyagi.jp/site/opendata-miyagi/index.html)
+    - [オープンデータみやぎ - 宮城県公式ウェブサイト](https://www.pref.miyagi.jp/site/opendata-miyagi/index.html)
 
 #### 秋田県
 
@@ -217,7 +217,7 @@
 #### 群馬県
 
 - [群馬県オープンデータサイト](https://www.pref.gunma.jp/page/16089.html)
-  - [群馬県内バス路線情報](https://gma.jcld.jp/gma_opendata/)
+    - [群馬県内バス路線情報](https://gma.jcld.jp/gma_opendata/)
 
 #### 埼玉県
 
@@ -227,7 +227,7 @@
 #### 千葉県
 
 - [千葉県オープンデータサイト](https://www.pref.chiba.lg.jp/gyoukaku/opendata/index.html)
-  - [千葉県のデータ活用サイト](https://www.pref.chiba.lg.jp/gyoukaku/opendata/datakatuyousite.html)
+    - [千葉県のデータ活用サイト](https://www.pref.chiba.lg.jp/gyoukaku/opendata/datakatuyousite.html)
 
 #### 東京都
 
@@ -253,7 +253,7 @@
 #### 富山県
 
 - [富山県オープンデータポータルサイト (TOYAMA OPEN DATA)](https://opendata.pref.toyama.jp/)
- - - [富山県バス情報データ](http://opendata.pref.toyama.jp/pages/gtfs_jp.htm)
+    - [富山県バス情報データ](http://opendata.pref.toyama.jp/pages/gtfs_jp.htm)
 
 ##### 富山市
 
@@ -365,26 +365,26 @@
 #### 鳥取県
 
 - [鳥取県オープンデータポータルサイト (Open Data Tottori)](https://odp-pref-tottori.tori-info.co.jp/)
-  - **共同利用** [鳥取市](https://www.city.tottori.lg.jp/www/contents/1484885510512/index.html)
+    - **共同利用** [鳥取市](https://www.city.tottori.lg.jp/www/contents/1484885510512/index.html)
 
 #### 島根県
 
 - [島根県 data eye](https://shimane-opendata.jp/)
-  - [オープンデータの公開 (島根県 デジタル戦略室)](https://www.pref.shimane.lg.jp/life/information/joho/informatization/opendata01.html)
+    - [オープンデータの公開 (島根県 デジタル戦略室)](https://www.pref.shimane.lg.jp/life/information/joho/informatization/opendata01.html)
 
 #### 岡山県
 
 - [おかやまオープンデータカタログ data eye](https://www.okayama-opendata.jp/)
-  - **共同利用** [出雲市](https://www.city.izumo.shimane.jp/www/contents/1558423569277/)
+    - **共同利用** [出雲市](https://www.city.izumo.shimane.jp/www/contents/1558423569277/)
 
 #### 広島県
 
 - [広島広域都市圏・広島県オープンデータポータルサイト](https://hiroshima-opendata.dataeye.jp/)
-  - **共同利用** [広島広域都市圏](https://hiroshima-opendata.dataeye.jp/pages/about)
-    - 広島県 : 広島市 (連携中枢都市)、呉市、竹原市、三原市、三次市、大竹市、東広島市、廿日市市、安芸高田市、江田島市、府中町、海田町、熊野町、坂町、安芸太田町、北広島町、大崎上島町、世羅町
-    - 山口県 : 岩国市、柳井市、周防大島町、和木町、上関町、田布施町、平生町
-    - 島根県 : 浜田市、美郷町、邑南町
-  - **共同利用** [広島県内の市町](https://hiroshima-opendata.dataeye.jp/pages/about)
+    - **共同利用** [広島広域都市圏](https://hiroshima-opendata.dataeye.jp/pages/about)
+        - 広島県 : 広島市 (連携中枢都市)、呉市、竹原市、三原市、三次市、大竹市、東広島市、廿日市市、安芸高田市、江田島市、府中町、海田町、熊野町、坂町、安芸太田町、北広島町、大崎上島町、世羅町
+        - 山口県 : 岩国市、柳井市、周防大島町、和木町、上関町、田布施町、平生町
+        - 島根県 : 浜田市、美郷町、邑南町
+    - **共同利用** [広島県内の市町](https://hiroshima-opendata.dataeye.jp/pages/about)
 
 ##### 東広島市
 
@@ -393,13 +393,13 @@
 #### 山口県
 
 - [山口県オープンデータカタログサイト](https://yamaguchi-opendata.jp/www/)
-  - [犯罪オープンデータ](https://www.pref.yamaguchi.lg.jp/site/police/10536.html)
-  - **共同利用** [美祢市](https://www2.city.mine.lg.jp/gyosei/joho/5618.html)
+    - [犯罪オープンデータ](https://www.pref.yamaguchi.lg.jp/site/police/10536.html)
+    - **共同利用** [美祢市](https://www2.city.mine.lg.jp/gyosei/joho/5618.html)
 
 #### 徳島県
 
 - [徳島県オープンデータポータルサイト (Our Open Data)](https://opendata.pref.tokushima.lg.jp/)
-  - [公式Twitter (@OurOpenData)](https://mobile.twitter.com/OurOpenData)
+    - [公式Twitter (@OurOpenData)](https://mobile.twitter.com/OurOpenData)
 - [徳島県警オープンデータ](https://www.police.pref.tokushima.jp/28opendata/index.html)
 
 #### 香川県
@@ -506,7 +506,7 @@
 - [オープンデータプラットフォーム (odp)](https://odp.jig.jp/) - [B Inc.](https://www.b-incorp.com/)が提供 (無償/有償)
 - [data eye](https://dataeye.jp/) -  一般社団法人データクレイドルが提供 (有償)
 - [LinkData](http://linkdata.org/) - [インフォ・ラウンジ株式会社](https://info-lounge.jp/)が提供
-  - [CityData](https://citydata.jp/) - 地域資源の情報をオープンデータとして共有していくためのデータベースサイト
+    - [CityData](https://citydata.jp/) - 地域資源の情報をオープンデータとして共有していくためのデータベースサイト
 
 ### ソフトウェア
 
@@ -520,16 +520,16 @@
 - [My City Forecast あなたのまちの未来予報](https://mycityforecast.net/) (東京大学生産技術研究所 空間情報科学研究センター 関本研究室)
 - [新型コロナウイルス感染症 (COVID-19) 各種データ ダッシュボード](https://corona.go.jp/dashboard/) (内閣官房新型コロナウイルス等感染症対策推進室)
 - [オープンデータ活用事業](https://www.carereview.co.jp/services/analysis.html) (株式会社ケアレビュー)
-  - [病院情報局](https://hospia.jp/)
-  - [医療介護情報局｜医療機関と介護施設の総合データベース](https://caremap.jp/)
-  - [地域医療情報システム](https://jmap.jp/) (日本医師会)
+    - [病院情報局](https://hospia.jp/)
+    - [医療介護情報局｜医療機関と介護施設の総合データベース](https://caremap.jp/)
+    - [地域医療情報システム](https://jmap.jp/) (日本医師会)
 - [まちケア](https://machicare.jp/) (データクレイドル)
 
 ## オープンデータの整備・政策
 
 - [官民データ活用推進基本法 \| e-Gov法令検索](https://elaws.e-gov.go.jp/document?lawid=428AC1000000103)
 - [オープンデータ｜デジタル庁](https://www.digital.go.jp/resources/open_data/)
-  - [推奨データセット](https://www.digital.go.jp/resources/data_dataset/) - 「オープンデータの公開とその利活用を促進することを目的とし、政府として公開を推奨するデータと、そのデータの作成にあたり準拠すべきルールやフォーマット等を取りまとめたものです」(内閣官房/デジタル庁)
+    - [推奨データセット](https://www.digital.go.jp/resources/data_dataset/) - 「オープンデータの公開とその利活用を促進することを目的とし、政府として公開を推奨するデータと、そのデータの作成にあたり準拠すべきルールやフォーマット等を取りまとめたものです」(内閣官房/デジタル庁)
 
 ### 終了・休止中
 
