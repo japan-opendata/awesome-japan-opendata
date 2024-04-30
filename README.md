@@ -131,7 +131,7 @@
 - [国際会議統計](https://mice.jnto.go.jp/document/statistics.html) (日本政府観光局 (JNTO)・非オープンデータ)
 - [訪日外客数・出国日本人数データ](https://www.jnto.go.jp/jpn/statistics/visitor_trends/index.html)  (日本政府観光局 (JNTO)・ライセンス不明)
 - [海外安全情報オープンデータ](https://www.ezairyu.mofa.go.jp/html/opendata/index.html) (外務省)
-- [観光庁 統計情報・白書](http://www.mlit.go.jp/kankocho/siryou/index.html) (観光庁)
+- [観光統計・白書](https://www.mlit.go.jp/kankocho/tokei_hakusyo.html) (観光庁)
 - [手ぶら観光カウンター情報](https://www.mlit.go.jp/seisakutokatsu/freight/seisakutokatsu_freight_tk1_000141.html) (国土交通省)
 - [ガイド東北オープンデータ](http://www.thr.mlit.go.jp/guide-tohoku/index.html) (国土交通省 東北地方整備局) - 東北6県の魅力的な施設やスポット情報
 
