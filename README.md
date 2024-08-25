@@ -124,6 +124,7 @@
 
 - [犯罪オープンデータリンク集](https://www.npa.go.jp/toukei/seianki/hanzaiopendatalink.html) (警察庁)
 - [防災情報提供センター](https://www.mlit.go.jp/saigai/bosaijoho/) (国土交通省)
+- [J-SHIS (地震ハザードステーション)](https://www.j-shis.bosai.go.jp/download) (防災科研) - 確率論的地震動予測地図、条件付超過確率、震源断層を特定した地震動予測地図、地盤情報、被災人口、J-SHIS地震・断層コードなど
 
 #### 観光・貿易・国際交流
 
