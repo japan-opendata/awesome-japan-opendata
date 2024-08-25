@@ -119,6 +119,7 @@
 - [公共交通オープンデータセンター](https://www.odpt.org/overview/) (公共交通オープンデータ協議会)
 - [交通事故統計情報のオープンデータ](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/index_opendata.html) (警察庁)
 - [歩行者移動支援サービスに関するデータサイト (バリアフリー・ナビプロジェクト)](https://www.hokoukukan.go.jp/top.html) (国土交通省)
+- [Project LINKS](https://www.mlit.go.jp/links/) (国土交通省) - 国土交通分野のデータ整備・活用・オープンデータ化プロジェクト
 
 #### 防災・安全
 
