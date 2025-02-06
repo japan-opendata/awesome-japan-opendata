@@ -235,6 +235,7 @@
 #### 東京都
 
 - [東京都オープンデータカタログサイト](https://portal.data.metro.tokyo.lg.jp/)
+- [メールけいしちょうオープンデータ](https://mail.digipolice.jp/opendata/) (警視庁)
 
 ##### 渋谷区
 
