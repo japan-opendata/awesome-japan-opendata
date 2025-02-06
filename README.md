@@ -103,24 +103,46 @@
 
 #### 環境・国土・地理
 
+##### 全般
+
 - [環境データショーケース](https://data.env.go.jp/dataset) - 環境庁のオープンデータカタログ
 - [国土数値情報ダウンロードサービス](https://nlftp.mlit.go.jp/ksj/) (国土交通省)
 - [PLATEAU (プラトー)](https://www.mlit.go.jp/plateau/) - 国土交通省が主導する、日本全国の3D都市モデルの整備・オープンデータ化プロジェクト
 - [G空間情報センター](https://front.geospatial.jp/) (AIGID)
-- [環境省大気汚染物質広域監視システム（そらまめくん）API](https://soramame.env.go.jp/apiManual)
+
+##### 不動産
+
 - [地価公示・地価調査・取引価格情報](https://www.land.mlit.go.jp/webland/) (国土交通省 土地総合情報システム)
+
+##### 大気・気象
+
+- [環境省大気汚染物質広域監視システム（そらまめくん）API](https://soramame.env.go.jp/apiManual)
+
+##### 河川・水質
+
 - [荒川下流ＧＩＳオープンデータポータル](https://www.ktr.mlit.go.jp/arage/arage01171.html) (荒川下流河川事務所)
-- [CARATS Open Data](https://www.mlit.go.jp/koku/koku_fr13_000006.html) (国土交通省・要申請) - 定期航空便の時刻・位置等の航跡データ
-    - [CARATS Open Data 関連情報](https://www.enri.go.jp/research/carats_open_data/index.html) (電子航法研究所)
+
+##### 地質・地盤
+
 - [地質調査総合センター (GSJ) データカタログ](https://data.gsj.jp/gkan/) (産総研 地質調査総合センター)
 - [国土地盤情報検索サイト KuniJiban](https://www.kunijiban.pwri.go.jp/jp/index.html) (国土交通省) - ボーリング柱状図や土質試験結果等の地盤情報データ
 
 #### 交通・移動・物流
 
+##### 全般
+
 - [公共交通オープンデータセンター](https://www.odpt.org/overview/) (公共交通オープンデータ協議会)
-- [交通事故統計情報のオープンデータ](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/index_opendata.html) (警察庁)
-- [歩行者移動支援サービスに関するデータサイト (バリアフリー・ナビプロジェクト)](https://www.hokoukukan.go.jp/top.html) (国土交通省)
 - [Project LINKS](https://www.mlit.go.jp/links/) (国土交通省) - 国土交通分野のデータ整備・活用・オープンデータ化プロジェクト
+- [交通事故統計情報のオープンデータ](https://www.npa.go.jp/publications/statistics/koutsuu/opendata/index_opendata.html) (警察庁)
+
+##### 道路・歩道
+
+- [歩行者移動支援サービスに関するデータサイト (バリアフリー・ナビプロジェクト)](https://www.hokoukukan.go.jp/top.html) (国土交通省)
+
+##### 航空・宇宙
+
+- [CARATS Open Data](https://www.mlit.go.jp/koku/koku_fr13_000006.html) (国土交通省・要申請) - 定期航空便の時刻・位置等の航跡データ
+    - [CARATS Open Data 関連情報](https://www.enri.go.jp/research/carats_open_data/index.html) (電子航法研究所)
 
 #### 防災・安全
 
