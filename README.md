@@ -113,6 +113,7 @@
 - [CARATS Open Data](https://www.mlit.go.jp/koku/koku_fr13_000006.html) (国土交通省・要申請) - 定期航空便の時刻・位置等の航跡データ
     - [CARATS Open Data 関連情報](https://www.enri.go.jp/research/carats_open_data/index.html) (電子航法研究所)
 - [地質調査総合センター (GSJ) データカタログ](https://data.gsj.jp/gkan/) (産総研 地質調査総合センター)
+- [国土地盤情報検索サイト KuniJiban](https://www.kunijiban.pwri.go.jp/jp/index.html) (国土交通省) - ボーリング柱状図や土質試験結果等の地盤情報データ
 
 #### 交通・移動・物流
 
