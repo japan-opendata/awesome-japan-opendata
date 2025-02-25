@@ -575,6 +575,7 @@
 - [LODチャレンジ](https://lodc.jp)
 - [都知事杯 オープンデータハッカソン](https://odhackathon.metro.tokyo.lg.jp/)
 - [東京公共交通オープンデータチャレンジ](https://tokyochallenge.odpt.org/)
+- [Geoアクティビティコンテスト](https://x.com/geo_contest) (国土地理院)
 
 ## 市民団体・活動
 
