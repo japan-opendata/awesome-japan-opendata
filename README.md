@@ -520,6 +520,13 @@
 
 - [日本中央バス](https://ncb.jp/route/GTFS.htm) (群馬県) - バス路線・ダイヤデータ
 
+### 大学
+
+- [東京大学大気海洋研究所オープンサイエンス推進室](https://opensci.aori.u-tokyo.ac.jp/index.html)
+    - [研究船観測データベース](https://opensci.aori.u-tokyo.ac.jp/cruise.html)
+    - [大槌湾観測データベース](https://opensci.aori.u-tokyo.ac.jp/otsuchi.html)
+    - [環境DNAマップ](https://opensci.aori.u-tokyo.ac.jp/oeDNAmap.html)
+
 ## 検索
 
 - [データカタログ横断検索システム](https://search.ckan.jp/) (NII)
