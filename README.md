@@ -600,4 +600,4 @@
 
 ---
 
-_Contributors_: [@ozekik](https://github.com/ozekik/)
+_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics)
