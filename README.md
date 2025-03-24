@@ -267,7 +267,6 @@
 #### 神奈川県
 
 - [神奈川県オープンデータサイト](https://www.pref.kanagawa.jp/dst/index.html)
-- [神奈川県警察オープンデータサイト](https://www.police.pref.kanagawa.jp/mes/mesd0145.htm) (神奈川県警察)
 
 ##### 横浜市
 
