@@ -119,9 +119,10 @@
 
 - [環境省大気汚染物質広域監視システム（そらまめくん）API](https://soramame.env.go.jp/apiManual)
 
-##### 河川・水質
+##### 河川・海洋・水質
 
 - [荒川下流ＧＩＳオープンデータポータル](https://www.ktr.mlit.go.jp/arage/arage01171.html) (荒川下流河川事務所)
+- [海しる](https://www.msil.go.jp/msil/htm/topwindow.html) / [海しるAPI](https://portal.msil.go.jp/)  (海上保安庁 海洋状況表示システムMSIL) - 地形・地質、海象、気象、安全、防災、水産、海域利用・保全などに関する海洋情報を提供するGISおよびAPIプラットフォーム
 
 ##### 地質・地盤
 
