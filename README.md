@@ -336,7 +336,7 @@
 
 ##### 名古屋市
 
-- [名古屋市オープンデータ一覧](https://www.city.nagoya.jp/shisei/category/388-3-0-0-0-0-0-0-0-0.html)
+- [名古屋市オープンデータ一覧](https://odcs.bodik.jp/231002/)
 
 #### 三重県
 
@@ -602,4 +602,4 @@
 
 ---
 
-_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics)
+_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi)
