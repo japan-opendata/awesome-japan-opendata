@@ -123,13 +123,12 @@
 
 - [荒川下流ＧＩＳオープンデータポータル](https://www.ktr.mlit.go.jp/arage/arage01171.html) (荒川下流河川事務所)
 - [海しる](https://www.msil.go.jp/msil/htm/topwindow.html) / [海しるAPI](https://portal.msil.go.jp/)  (海上保安庁 海洋状況表示システムMSIL) - 地形・地質、海象、気象、安全、防災、水産、海域利用・保全などに関する海洋情報を提供するGISおよびAPIプラットフォーム
-- [地理地殻活動研究センター公開データ](https://research-opendata.gsi.go.jp/) (国土地理院 地理地殻活動研究センター)
 
 ##### 地質・地盤・地形
 
 - [地質調査総合センター (GSJ) データカタログ](https://data.gsj.jp/gkan/) (産総研 地質調査総合センター)
 - [国土地盤情報検索サイト KuniJiban](https://www.kunijiban.pwri.go.jp/jp/index.html) (国土交通省) - ボーリング柱状図や土質試験結果等の地盤情報データ
-
+- [地理地殻活動研究センター公開データ](https://research-opendata.gsi.go.jp/) (国土地理院 地理地殻活動研究センター)
 
 #### 交通・移動・物流
 
