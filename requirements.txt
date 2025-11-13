@@ -1,4 +1,4 @@
 mkdocs~=1.6
-mkdocs-material~=9.6
+mkdocs-material~=9.7
 mkdocs-include-markdown-plugin~=7.1
-pymdown-extensions~=10.14
+pymdown-extensions~=10.17
