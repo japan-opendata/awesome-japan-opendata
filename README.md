@@ -146,7 +146,7 @@
 
 ##### 航空・宇宙
 
-- [CARATS Open Data](https://www.mlit.go.jp/koku/koku_fr13_000006.html) (国土交通省・要申請) - 定期航空便の時刻・位置等の航跡データ
+- [CARATS Open Data](https://www.mlit.go.jp/koku/carats/#copen) (国土交通省・要申請) - 定期航空便の時刻・位置等の航跡データ
     - [CARATS Open Data 関連情報](https://www.enri.go.jp/research/carats_open_data/index.html) (電子航法研究所)
 
 #### 防災・安全
