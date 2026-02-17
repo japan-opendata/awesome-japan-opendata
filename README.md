@@ -613,7 +613,7 @@
 ## 関連リンク
 
 - [Awesome PLATEAU - 国土交通省 Project PLATEAU 情報まとめ](https://japan-opendata.github.io/awesome-plateau/) - 国土交通省 Project PLATEAU の関連情報や事例のまとめ
-- [Awesome Japan Finance Data](https://github.com/ajtgjmdjp/awesome-japan-finance-data) - 日本の金融・経済オープンデータソース、API、Pythonライブラリ、MCPツールのまとめ
+- [Awesome Japan Finance Data](https://github.com/ajtgjmdjp/awesome-japan-finance-data/blob/main/README_ja.md) - 日本の金融・経済オープンデータソース、API、Pythonライブラリ、MCPツールのまとめ
 
 ---
 
