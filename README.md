@@ -179,6 +179,7 @@
 #### 金融・産業・商業・法人・法務
 
 - [EDINET](https://disclosure.edinet-fsa.go.jp) (金融庁) - 金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム
+- [日本銀行時系列統計データ](https://www.stat-search.boj.or.jp/) (日本銀行) - CGPI (企業物価指数)、短観、資金循環、国際収支、BIS統計等16データセット。CSV (Shift_JIS) の ZIP ファイルとして提供。認証不要
 - [国税庁法人番号公表サイト ダウンロード/Web API](https://www.houjin-bangou.nta.go.jp/download/) - 法人の基本3情報 (商号又は名称/本店又は主たる事務所の所在地/法人番号) のデータセット
 - [女性の活躍推進企業データベース オープンデータ](https://positive-ryouritsu.mhlw.go.jp/positivedb/opendata/) (厚生労働省)
 - [落札実績オープンデータ](https://www.p-portal.go.jp/pps-web-biz/UAB02/OAB0201) (デジタル庁 調達ポータル)
@@ -612,7 +613,8 @@
 ## 関連リンク
 
 - [Awesome PLATEAU - 国土交通省 Project PLATEAU 情報まとめ](https://japan-opendata.github.io/awesome-plateau/) - 国土交通省 Project PLATEAU の関連情報や事例のまとめ
+- [Awesome Japan Finance Data](https://github.com/ajtgjmdjp/awesome-japan-finance-data/blob/main/README_ja.md) - 日本の金融・経済オープンデータソース、API、Pythonライブラリ、MCPツールのまとめ
 
 ---
 
-_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi)
+_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp)
