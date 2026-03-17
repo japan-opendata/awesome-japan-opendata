@@ -273,7 +273,7 @@
 #### 東京都
 
 - [東京都オープンデータカタログサイト](https://portal.data.metro.tokyo.lg.jp/)
-- [メールけいしちょうオープンデータ](https://mail.digipolice.jp/opendata/) (警視庁)
+- [メールけいしちょうオープンデータ](https://mail.keishicho.metro.tokyo.lg.jp/opendata/) (警視庁)
 
 ##### 渋谷区
 
@@ -617,4 +617,4 @@
 
 ---
 
-_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp)
+_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae)
