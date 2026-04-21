@@ -155,7 +155,6 @@
 - [犯罪オープンデータリンク集](https://www.npa.go.jp/toukei/seianki/hanzaiopendatalink.html) (警察庁)
 - [防災情報提供センター](https://www.mlit.go.jp/saigai/bosaijoho/) (国土交通省)
 - [J-SHIS (地震ハザードステーション)](https://www.j-shis.bosai.go.jp/download) (防災科研) - 確率論的地震動予測地図、条件付超過確率、震源断層を特定した地震動予測地図、地盤情報、被災人口、J-SHIS地震・断層コードなど
-- [Japan Neighborhoods](https://japanneighborhoods.com) (Japan Neighborhoods) - 警視庁犯罪統計オープンデータを英語化したプラットフォーム。東京23区+多摩地区の5,078町丁目 × 2018-2024年(7年分、36,222レコード)の犯罪データを英語で提供。インタラクティブ犯罪マップ、安全度グレード (A+〜F)、REST API、CSV データセットを無料公開。CC BY 4.0 ライセンス
 
 #### 観光・貿易・国際交流
 
@@ -275,6 +274,7 @@
 
 - [東京都オープンデータカタログサイト](https://portal.data.metro.tokyo.lg.jp/)
 - [メールけいしちょうオープンデータ](https://mail.keishicho.metro.tokyo.lg.jp/opendata/) (警視庁)
+- [Japan Neighborhoods](https://japanneighborhoods.com/developers) (有志エンジニア) - 警視庁犯罪統計オープンデータを英語化したプラットフォーム。東京23区+多摩地区の犯罪データを英語で提供 (REST API, CSV)
 
 ##### 渋谷区
 
