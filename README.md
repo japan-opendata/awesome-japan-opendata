@@ -274,6 +274,7 @@
 
 - [東京都オープンデータカタログサイト](https://portal.data.metro.tokyo.lg.jp/)
 - [メールけいしちょうオープンデータ](https://mail.keishicho.metro.tokyo.lg.jp/opendata/) (警視庁)
+- [Japan Neighborhoods](https://japanneighborhoods.com/developers) (有志エンジニア) - 警視庁犯罪統計オープンデータを英語化したプラットフォーム。東京23区+多摩地区の犯罪データを英語で提供 (REST API, CSV)
 
 ##### 渋谷区
 
@@ -617,4 +618,4 @@
 
 ---
 
-_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae)
+_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae), [@yoshiblog-space](https://github.com/yoshiblog-space)
