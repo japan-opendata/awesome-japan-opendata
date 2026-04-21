@@ -618,4 +618,4 @@
 
 ---
 
-_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae)
+_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae), [@yoshiblog-space](https://github.com/yoshiblog-space)
