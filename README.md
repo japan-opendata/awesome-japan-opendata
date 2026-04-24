@@ -112,6 +112,7 @@
 - [国土数値情報ダウンロードサービス](https://nlftp.mlit.go.jp/ksj/) (国土交通省)
 - [PLATEAU (プラトー)](https://www.mlit.go.jp/plateau/) - 国土交通省が主導する、日本全国の3D都市モデルの整備・オープンデータ化プロジェクト
 - [G空間情報センター](https://front.geospatial.jp/) (AIGID)
+- [Shirabe 住所正規化 API](https://shirabe.dev/docs/address-normalize) - デジタル庁が公開する[アドレス・ベース・レジストリ(ABR)](https://www.digital.go.jp/policies/base_registry_address)(CC BY 4.0)を元データとした、AI エージェント向けの日本全国 47 都道府県対応住所正規化 REST API。構造化された都道府県/市区町村/町丁目/番地/建物コンポーネント + WGS84 座標 + 郵便番号 + マッチレベル/信頼スコアを返す。attribution フィールド必須(CC BY 4.0 伝搬義務)。MIT ライセンス、運営: 株式会社テックウェル(福岡)。
 
 ##### 不動産
 
