@@ -552,6 +552,7 @@
 ### プラットフォーム
 
 - [BODIK ODCS](https://odcs.bodik.jp/) - [公益財団法人九州先端科学技術研究所](https://www.isit.or.jp/)が提供、CKAN/WordPressベース (無償)
+- [LocalGov.jp](https://localgov.jp/) - 個人運営、中央省庁 + 全国1,916市町村の補助金・助成金を統合検索。JSON/Markdown 対応の API、iframe 埋め込みウィジェット、llms.txt / OpenAPI 仕様 / .well-known マニフェスト提供
 - [Open data stack](https://opendatastack.jp/) - [株式会社スタイルズ](https://www.stylez.co.jp/)が提供 (有償)、CKANベース
 - [オープンデータプラットフォーム (odp)](https://odp.jig.jp/) - [B Inc.](https://www.b-incorp.com/)が提供 (無償/有償)
 - [data eye](https://dataeye.jp/) -  一般社団法人データクレイドルが提供 (有償)
