@@ -104,6 +104,7 @@
 - [オープンデータセット｜国立国会図書館-National Diet Library](https://www.ndl.go.jp/jp/dlib/standards/opendataset/index.html)
 - [ROIS-DS人文学オープンデータ共同利用センター (CODH)](http://codh.rois.ac.jp/)
 - [子供の学び応援サイト掲載コンテンツ情報](https://www.mext.go.jp/a_menu/ikusei/gakusyushien/mext_00975.html) (文部科学省) - [子供の学び応援サイト](https://www.mext.go.jp/a_menu/ikusei/gakusyushien/index_00001.htm) (現 [たのしくまなび隊](https://tanoshikumanabitai.mext.go.jp/)) に掲載している一部の学習コンテンツのメタデータ
+- [BrightKey 大学・インターナショナルスクール評価データセット](https://brightkey.co/en/rankings/dataset) - 日本を含む世界の大学約299校・インターナショナルスクール約184校を6項目で独立評価したオープンデータ (CC-BY-4.0、DOI: 10.5281/zenodo.20603841、Hugging Face・Kaggle・Zenodoでミラー公開)
 
 #### 環境・国土・地理
 
