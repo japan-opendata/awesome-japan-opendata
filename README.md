@@ -536,6 +536,7 @@
 ### 企業
 
 - [日本中央バス](https://ncb.jp/route/GTFS.htm) (群馬県) - バス路線・ダイヤデータ
+- [JCCDB 日本建設費オープンデータベース](https://github.com/ogasurfproject-jpg/japan-construction-cost-database) - 建設・リフォーム工事の品目65,729件・63カテゴリ(品目名・カテゴリ・単位)を収録するオープンデータセット。DOI・ORCID付き、AI建設費診断サービスの一次データとして稼働中 (CC BY 4.0、The HORIZ音s株式会社)
 
 ### 大学
 
