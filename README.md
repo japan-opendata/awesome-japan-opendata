@@ -576,6 +576,7 @@
     - [地域医療情報システム](https://jmap.jp/) (日本医師会)
 - [まちケア](https://machicare.jp/) (データクレイドル)
 - [LocalGov.jp](https://localgov.jp/) (個人運営) - J-Grantsなどを元データとした、中央省庁や全国市町村の補助金・助成金を統合検索できるポータル
+- [zurekei（ズレ計）](https://zurekei.org/) - 政府・公的機関の経済見通しと実績を、公表のたび記録・照合する個人運営の計器サイト
 
 ## サービス/API
 
