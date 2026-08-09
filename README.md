@@ -570,7 +570,7 @@
 - [RESAS 地域経済分析システム](https://resas.go.jp/#/13/13101) (内閣府・経済産業省)
 - [My City Forecast あなたのまちの未来予報](https://mycityforecast.net/) (東京大学生産技術研究所 空間情報科学研究センター 関本研究室)
 - [新型コロナウイルス感染症 (COVID-19) 各種データ ダッシュボード](https://corona.go.jp/dashboard/) (内閣官房新型コロナウイルス等感染症対策推進室)
-- [オープンデータ活用事業](https://www.carereview.co.jp/services/analysis.html) (株式会社ケアレビュー)
+- [オープンデータ活用事業](https://carereview.co.jp/opendata/) (株式会社ケアレビュー)
     - [病院情報局](https://hospia.jp/)
     - [医療介護情報局｜医療機関と介護施設の総合データベース](https://caremap.jp/)
     - [地域医療情報システム](https://jmap.jp/) (日本医師会)
