@@ -576,6 +576,7 @@
     - [医療介護情報局｜医療機関と介護施設の総合データベース](https://caremap.jp/)
     - [地域医療情報システム](https://jmap.jp/) (日本医師会)
 - [まちケア](https://machicare.jp/) (データクレイドル)
+- [LocalGov.jp](https://localgov.jp/) (個人運営) - J-Grantsなどを元データとした、中央省庁や全国市町村の補助金・助成金を統合検索できるポータル
 
 ## サービス/API
 
@@ -624,5 +625,4 @@
 
 ---
 
-_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae), [@yoshiblog-space](https://github.com/yoshiblog-space), [@Shirabe-dev-sys](https://github.com/Shirabe-dev-sys)
-
+_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae), [@yoshiblog-space](https://github.com/yoshiblog-space), [@Shirabe-dev-sys](https://github.com/Shirabe-dev-sys), [@bunsato](https://github.com/bunsato)
