@@ -114,10 +114,9 @@
 - [PLATEAU (プラトー)](https://www.mlit.go.jp/plateau/) - 国土交通省が主導する、日本全国の3D都市モデルの整備・オープンデータ化プロジェクト
 - [G空間情報センター](https://front.geospatial.jp/) (AIGID)
 
-##### 不動産・建設
+##### 不動産
 
 - [不動産情報ライブラリ](https://www.reinfolib.mlit.go.jp/) (国土交通省) - 不動産価格（取引価格・成約価格）情報、地価情報などの不動産関連データのダウンロード、APIも提供 (旧 土地総合情報システム)
-- [JCCDB 日本建設費オープンデータベース 品目データ](https://github.com/ogasurfproject-jpg/japan-construction-cost-database/blob/main/README.ja.md) (The HORIZ音s株式会社) - メーカーWebサイトなどから独自に収集した建設・リフォーム工事資材の品目名・カテゴリ・単位のデータセット
 
 ##### 大気・気象
 
@@ -537,6 +536,7 @@
 ### 企業
 
 - [日本中央バス](https://ncb.jp/route/GTFS.htm) (群馬県) - バス路線・ダイヤデータ
+- [JCCDB 日本建設費オープンデータベース 品目データ](https://github.com/ogasurfproject-jpg/japan-construction-cost-database/blob/main/README.ja.md) (The HORIZ音s株式会社) - メーカーWebサイトなどから独自に収集した建設・リフォーム工事資材の品目名・カテゴリ・単位のデータセット
 
 ### 大学
 
