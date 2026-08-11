@@ -578,6 +578,7 @@
 - [まちケア](https://machicare.jp/) (データクレイドル)
 - [LocalGov.jp](https://localgov.jp/) (個人運営) - J-Grantsなどを元データとした、中央省庁や全国市町村の補助金・助成金を統合検索できるポータル
 - [zurekei (ズレ計)](https://zurekei.org/) (個人運営) - 政府・公的機関の経済見通しと実績を、公表のたび記録・照合する計器サイト
+- [医療さがし](https://iryosagashi.online/) (個人運営) - 厚生労働省「医療情報ネット」のオープンデータ全197,967件を正規化し、市区町村・診療科・診療時間で検索できる医療機関検索サイト。1kmメッシュ人口と突き合わせた[医療アクセス圏外人口の推計](https://iryosagashi.online/stats/access/)や集計CSVも公開（[GitHub](https://github.com/shiorisuimoku-netizen/iryosagashi-opendata)）
 
 ## サービス/API
 
