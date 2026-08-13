@@ -72,7 +72,7 @@
         - [鹿児島県](#鹿児島県)
         - [沖縄県](#沖縄県)
     - [コミュニティ](#コミュニティ)
-    - [企業](#企業)
+    - [企業・事業主](#企業事業主)
     - [大学](#大学)
 - [検索](#検索)
 - [プラットフォーム/ソフトウェア](#プラットフォームソフトウェア)
@@ -533,10 +533,11 @@
 - [OpenStreetMap Japan](https://openstreetmap.jp/)
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
 
-### 企業
+### 企業・事業主
 
 - [日本中央バス](https://ncb.jp/route/GTFS.htm) (群馬県) - バス路線・ダイヤデータ
 - [JCCDB 日本建設費オープンデータベース 品目データ](https://github.com/ogasurfproject-jpg/japan-construction-cost-database/blob/main/README.ja.md) (The HORIZ音s株式会社) - メーカーWebサイトなどから独自に収集した建設・リフォーム工事資材の品目名・カテゴリ・単位のデータセット
+- [BrightKey 大学・インターナショナルスクール評価データセット 日本データ](https://brightkey.co/en/rankings/dataset#japan) (BrightKey) - 世界の大学・インターナショナルスクールを6項目で独立評価したデータセットのうち、日本の大学・インターナショナルスクールのデータ
 
 ### 大学
 
@@ -627,4 +628,4 @@
 
 ---
 
-_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae), [@yoshiblog-space](https://github.com/yoshiblog-space), [@Shirabe-dev-sys](https://github.com/Shirabe-dev-sys), [@bunsato](https://github.com/bunsato), [@zurekei](https://github.com/zurekei), [@ogasurfproject-jpg](https://github.com/ogasurfproject-jpg), [@shiorisuimoku-netizen](https://github.com/shiorisuimoku-netizen)
+_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae), [@yoshiblog-space](https://github.com/yoshiblog-space), [@Shirabe-dev-sys](https://github.com/Shirabe-dev-sys), [@bunsato](https://github.com/bunsato), [@zurekei](https://github.com/zurekei), [@ogasurfproject-jpg](https://github.com/ogasurfproject-jpg), [@shiorisuimoku-netizen](https://github.com/shiorisuimoku-netizen), [@arthurb2l](https://github.com/arthurb2l)
