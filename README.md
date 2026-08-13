@@ -578,6 +578,7 @@
 - [まちケア](https://machicare.jp/) (データクレイドル)
 - [LocalGov.jp](https://localgov.jp/) (個人運営) - J-Grantsなどを元データとした、中央省庁や全国市町村の補助金・助成金を統合検索できるポータル
 - [zurekei (ズレ計)](https://zurekei.org/) (個人運営) - 政府・公的機関の経済見通しと実績を、公表のたび記録・照合する計器サイト
+- [医療さがし](https://iryosagashi.online/) (個人運営) - 厚生労働省「医療情報ネット」のオープンデータを正規化し、市区町村・診療科・診療時間で検索できるようにした医療機関検索サイト。[医療アクセス圏外人口の推計](https://iryosagashi.online/stats/access/)や集計CSVデータも公開 ([GitHub](https://github.com/shiorisuimoku-netizen/iryosagashi-opendata))
 
 ## サービス/API
 
@@ -626,4 +627,4 @@
 
 ---
 
-_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae), [@yoshiblog-space](https://github.com/yoshiblog-space), [@Shirabe-dev-sys](https://github.com/Shirabe-dev-sys), [@bunsato](https://github.com/bunsato), [@zurekei](https://github.com/zurekei), [@ogasurfproject-jpg](https://github.com/ogasurfproject-jpg)
+_Contributors_: [@ozekik](https://github.com/ozekik/), [@Rindrics](https://github.com/Rindrics), [@maekawa-mugi](https://github.com/maekawa-mugi), [@ajtgjmdjp](https://github.com/ajtgjmdjp), [@J-Miyamae](https://github.com/J-Miyamae), [@yoshiblog-space](https://github.com/yoshiblog-space), [@Shirabe-dev-sys](https://github.com/Shirabe-dev-sys), [@bunsato](https://github.com/bunsato), [@zurekei](https://github.com/zurekei), [@ogasurfproject-jpg](https://github.com/ogasurfproject-jpg), [@shiorisuimoku-netizen](https://github.com/shiorisuimoku-netizen)
