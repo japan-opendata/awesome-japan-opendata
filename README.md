@@ -544,7 +544,7 @@
 - [東京大学大気海洋研究所オープンサイエンス推進室](https://opensci.aori.u-tokyo.ac.jp/index.html)
     - [研究船観測データベース](https://opensci.aori.u-tokyo.ac.jp/cruise.html)
     - [大槌湾観測データベース](https://opensci.aori.u-tokyo.ac.jp/otsuchi.html)
-    - [環境DNAマップ](https://opensci.aori.u-tokyo.ac.jp/oeDNAmap.html)
+    - [環境DNAマップ](https://opensci.aori.u-tokyo.ac.jp/eDNAmap.html)
 
 ## 検索
 
