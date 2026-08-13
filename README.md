@@ -72,7 +72,7 @@
         - [鹿児島県](#鹿児島県)
         - [沖縄県](#沖縄県)
     - [コミュニティ](#コミュニティ)
-    - [企業](#企業)
+    - [企業・事業主](#企業事業主)
     - [大学](#大学)
 - [検索](#検索)
 - [プラットフォーム/ソフトウェア](#プラットフォームソフトウェア)
@@ -104,7 +104,6 @@
 - [オープンデータセット｜国立国会図書館-National Diet Library](https://www.ndl.go.jp/jp/dlib/standards/opendataset/index.html)
 - [ROIS-DS人文学オープンデータ共同利用センター (CODH)](http://codh.rois.ac.jp/)
 - [子供の学び応援サイト掲載コンテンツ情報](https://www.mext.go.jp/a_menu/ikusei/gakusyushien/mext_00975.html) (文部科学省) - [子供の学び応援サイト](https://www.mext.go.jp/a_menu/ikusei/gakusyushien/index_00001.htm) (現 [たのしくまなび隊](https://tanoshikumanabitai.mext.go.jp/)) に掲載している一部の学習コンテンツのメタデータ
-- [BrightKey 大学・インターナショナルスクール評価データセット](https://brightkey.co/en/rankings/dataset) - 日本を含む世界の大学約299校・インターナショナルスクール約184校を6項目で独立評価したオープンデータ (CC-BY-4.0、DOI: 10.5281/zenodo.20603841、Hugging Face・Kaggle・Zenodoでミラー公開)
 
 #### 環境・国土・地理
 
@@ -534,10 +533,11 @@
 - [OpenStreetMap Japan](https://openstreetmap.jp/)
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
 
-### 企業
+### 企業・事業主
 
 - [日本中央バス](https://ncb.jp/route/GTFS.htm) (群馬県) - バス路線・ダイヤデータ
 - [JCCDB 日本建設費オープンデータベース 品目データ](https://github.com/ogasurfproject-jpg/japan-construction-cost-database/blob/main/README.ja.md) (The HORIZ音s株式会社) - メーカーWebサイトなどから独自に収集した建設・リフォーム工事資材の品目名・カテゴリ・単位のデータセット
+- [BrightKey 大学・インターナショナルスクール評価データセット 日本データ](https://brightkey.co/en/rankings/dataset#japan) (BrightKey) - 世界の大学・インターナショナルスクールを6項目で独立評価したデータセットのうち、日本の大学・インターナショナルスクールのデータ
 
 ### 大学
 
