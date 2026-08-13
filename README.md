@@ -582,6 +582,7 @@
 ## サービス/API
 
 - [Shirabe 住所正規化API](https://shirabe.dev/docs/address-normalize) (株式会社テックウェル) - デジタル庁が公開する[アドレス・ベース・レジストリ (ABR)](https://www.digital.go.jp/policies/base_registry_address)を元データとしたAIエージェント向けの住所正規化REST API
+- [saita-kun-feeder](https://github.com/saita-kun/saita-kun-feeder) (サイタくん) - 全国の補助金・助成金 約1.2万件を日次更新で配信する公開データフィード（CDLA-Permissive-2.0）と、Claude Code など AI エージェントで受信・マッチングする consumer ハーネス OSS。フィード仕様は[公開データ契約 v1](https://github.com/saita-kun/saita-kun-feeder/blob/main/docs/design/feed-contract-v1.md) として公開
 
 ## オープンデータの整備・政策
 
