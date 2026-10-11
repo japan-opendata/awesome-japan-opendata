@@ -538,6 +538,7 @@
 - [日本中央バス](https://ncb.jp/route/GTFS.htm) (群馬県) - バス路線・ダイヤデータ
 - [JCCDB 日本建設費オープンデータベース 品目データ](https://github.com/ogasurfproject-jpg/japan-construction-cost-database/blob/main/README.ja.md) (The HORIZ音s株式会社) - メーカーWebサイトなどから独自に収集した建設・リフォーム工事資材の品目名・カテゴリ・単位のデータセット
 - [BrightKey 大学・インターナショナルスクール評価データセット 日本データ](https://brightkey.co/en/rankings/dataset#japan) (BrightKey) - 世界の大学・インターナショナルスクールを6項目で独立評価したデータセットのうち、日本の大学・インターナショナルスクールのデータ
+- [転職・面接質問データベース 473社](https://part676392.github.io/dsh-money-engine/?src=jopendata) (dsh money engine) - 転職サイト公開APIの収集データを企業別に整えた面接質問の実文 1,779 行・473 社。CSV 付き・CC BY 4.0・毎日追加される差分記録あり
 
 ### 大学
 
