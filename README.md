@@ -538,6 +538,7 @@
 - [日本中央バス](https://ncb.jp/route/GTFS.htm) (群馬県) - バス路線・ダイヤデータ
 - [JCCDB 日本建設費オープンデータベース 品目データ](https://github.com/ogasurfproject-jpg/japan-construction-cost-database/blob/main/README.ja.md) (The HORIZ音s株式会社) - メーカーWebサイトなどから独自に収集した建設・リフォーム工事資材の品目名・カテゴリ・単位のデータセット
 - [BrightKey 大学・インターナショナルスクール評価データセット 日本データ](https://brightkey.co/en/rankings/dataset#japan) (BrightKey) - 世界の大学・インターナショナルスクールを6項目で独立評価したデータセットのうち、日本の大学・インターナショナルスクールのデータ
+- [新しい在留カードのオンライン本人確認 (eKYC) 対応状況](https://setupinjapan.com/ja/residence-card/online-verification/) (Set Up in Japan・CC BY 4.0) - 2026年6月14日以降に交付された在留カードを、携帯電話会社・銀行など15社がオンライン本人確認で受け付けるかを、各社の公式告知の該当文と確認日付きでまとめた表。CSV: [Zenodo (DOI)](https://doi.org/10.5281/zenodo.23521207) / [GitHub](https://github.com/ReviewReply-now/residence-card-tracker)
 
 ### 大学
 
