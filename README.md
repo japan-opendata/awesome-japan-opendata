@@ -186,6 +186,8 @@
 - [落札実績オープンデータ](https://www.p-portal.go.jp/pps-web-biz/UAB02/OAB0201) (デジタル庁 調達ポータル)
 - [水防災オープンデータ提供サービス](http://www.river.or.jp/koeki/opendata/index.html) (国土交通省/河川情報センター・有償)
 - [登記所備付地図データ](https://www.moj.go.jp/MINJI/minji05_00494.html) (法務省)
+- [都道府県別 最低賃金の推移](https://keiri-tools.com/data/saitei-chingin-suii/) (keiri-tools) - 厚生労働省の公表値から、47都道府県×平成14〜令和8年度（25年度分・1,175行）の地域別最低賃金を整理。CSV (UTF-8)・引用転載加工自由
+- [協会けんぽ 都道府県別 健康保険料率ランキング](https://keiri-tools.com/data/kenpo-ryoritsu-ranking/) (keiri-tools) - 全国健康保険協会の令和8年度の都道府県別料率と、同じ標準報酬月額での年間保険料の県別差。CSV (UTF-8)・引用転載加工自由
 
 #### 農業
 
