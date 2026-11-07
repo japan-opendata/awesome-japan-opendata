@@ -584,6 +584,7 @@
 ## サービス/API
 
 - [Shirabe 住所正規化API](https://shirabe.dev/docs/address-normalize) (株式会社テックウェル) - デジタル庁が公開する[アドレス・ベース・レジストリ (ABR)](https://www.digital.go.jp/policies/base_registry_address)を元データとしたAIエージェント向けの住所正規化REST API
+- [KaijuConverter (日本語)](https://kaijuconverter.com/ja) - オープンデータや各種ファイル形式（CSV, JSON, Parquet, 画像, ドキュメント）を100種類以上相互変換できる登録不要の無料オンラインツール・API
 
 ## オープンデータの整備・政策
 
