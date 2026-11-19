@@ -276,6 +276,7 @@
 - [東京都オープンデータカタログサイト](https://portal.data.metro.tokyo.lg.jp/)
 - [メールけいしちょうオープンデータ](https://mail.keishicho.metro.tokyo.lg.jp/opendata/) (警視庁)
 - [Japan Neighborhoods](https://japanneighborhoods.com/developers) (有志エンジニア) - 警視庁犯罪統計オープンデータを英語化したプラットフォーム。東京23区+多摩地区の犯罪データを英語で提供 (REST API, CSV)
+- [official.tokyo.jp データAPI](https://official.tokyo.jp/data/) (DroR Corporation) - 東京23区の区役所窓口と、在住外国人向けの生活手続き（転入届・国民健康保険・マイナンバー等）の構造化データ。人が公式ページを確認した日付付き。JSON API・OpenAPI・5言語 (CC BY 4.0)
 
 ##### 渋谷区
 
